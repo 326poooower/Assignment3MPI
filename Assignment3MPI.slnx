@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Assignment3MPI/Assignment3MPI.vcxproj" Id="35795bcd-df02-4ec6-8ba8-99d53578d758" />
+</Solution>
